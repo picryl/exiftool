@@ -1,5 +1,5 @@
 {
-  "name": "exiftool",
+  "name": "@picryl/exiftool",
   "version": "0.0.4",
   "description": "Metadata extraction from numerous filetypes including JPEG, PNG, PDF, MOV, WMV, MP3, MP4, and others.",
   "main": "./lib/exiftool",
